@@ -1,5 +1,5 @@
 title = "Eddie Webb"
-baseURL = "https://example.com/"
+baseURL = "https://pete-wildberger.net/"
 theme = ["hugo-resume"]
 languageCode = "en-us"
 PygmentsCodeFences = true
@@ -16,10 +16,10 @@ lastName = "Wildberger"
 
 profileImage = "img/pete.wildberger.jpg"
 showEducation = true
-showExperience = true
+showExperience = false
 showOpenSource = true
-showProjects = true
-showPublications = true
+showProjects = false
+showPublications = false
 showQr = true
 showSkills = true
 
