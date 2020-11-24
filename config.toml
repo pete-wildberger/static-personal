@@ -1,0 +1,47 @@
+title = "Eddie Webb"
+baseURL = "https://example.com/"
+theme = ["hugo-resume"]
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Minneapolis, MN"
+email = "pete.wildberger@gmail.com"
+favicon = "/favicon.ico"
+firstName = "Peter"
+lastName = "Wildberger"
+
+profileImage = "img/pete.wildberger.jpg"
+showEducation = true
+showExperience = true
+showOpenSource = true
+showProjects = true
+showPublications = true
+showQr = true
+showSkills = true
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/peter-wildberger/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/pete-wildberger"
+name = "GitHub"
+
+[[params.handles]]
+link = "https://stackoverflow.com/users/8360540/pete-wildberger"
+name = "Stack Overflow"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
