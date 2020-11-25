@@ -1,20 +1,21 @@
 ---
-title: Schema.org Structured Data documentation fixes
+title: Simplemde Markdown Editor Extended
 date: 2020-01-07T17:08:21.433Z
-link: 'https://github.com/pete-wildberger/codemirror-spell-checker'
-image: NA
+link: 'https://www.npmjs.com/package/simplemde-extended'
+image: '/img/editor.png'
+featured: true
 description: >-
-  Not all pull requests are glorious code, documentation is really important
-  too! This commit fixed some invalid JSON found in some example specs.
-tags:
-  - JSON
+ Fork and update of simplemde
+tags: ["JavaScript"]
 fact: >-
-  Schema.org provides a common specification for Structured Data on the
-  internet.
+  A drop-in JavaScript textarea replacement for writing beautiful and understandable Markdown.
 weight: 2
 sitemap:
   priority: 0.8
   weight: 0.1
 ---
 
-While adding *Structured Data* to a client's website I found some example JSON that was invalid.  Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.
+Updated simplemde with new build process and dependency update for better spellchecking.
+
+- Update build process using webpack
+- Update Spellchecking facilities
