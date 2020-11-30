@@ -1,0 +1,84 @@
+:root {
+    --primary: #1565C0;
+}
+
+body {
+    color: #868e96;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #343a40;
+  }
+  
+  .list-social-icons a {
+    color: #495057;
+  }
+  
+  .list-social-icons a:hover {
+    color: var(--primary);
+  }
+  
+  .list-icons .list-inline-item i:hover {
+    color: var(--primary);
+  }
+  
+  @media (min-width: 992px) {
+    #sideNav .navbar-brand .img-profile {
+      border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    }
+  }
+  
+  section.resume-section {
+    border-bottom: 1px solid #dee2e6;
+  }
+  
+  .bg-primary {
+    background-color: var(--primary) !important;
+  }
+  
+  .text-primary {
+    color: var(--primary) !important;
+  }
+  
+  a {
+    color: var(--primary);
+  }
+  
+  a:hover, a:focus, a:active {
+    color: #824027;
+  }
+
+  .tag {
+    background: #eee;
+    color: #999;
+  }
+  
+  .tag::before {
+    background: #fff;
+    box-shadow: inset 0 1px rgba(0, 0, 0, 0.25);
+  }
+  
+  .tag::after {
+    background: #fff;
+    border-left: 10px solid #eee;
+  }
+  
+  .tag:hover {
+    background-color: crimson;
+    color: white;
+  }
+  
+  .tag:hover::after {
+     border-left-color: crimson;
+  }
+  
+  .resume-section blockquote {
+      border-left: 4px solid var(--primary);
+  }
+
+  

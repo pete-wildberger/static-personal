@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source Contributions on Peter Wildberger</title>
+    <link>https://peter-wildberger.herokuapp.com/projects/contributions/</link>
+    <description>Recent content in Open Source Contributions on Peter Wildberger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 16:49:15 +0000</lastBuildDate><atom:link href="https://peter-wildberger.herokuapp.com/projects/contributions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CodeMirror Spell Checker Extended</title>
+      <link>https://peter-wildberger.herokuapp.com/projects/contributions/spell-checker/</link>
+      <pubDate>Tue, 07 Jan 2020 17:08:21 +0000</pubDate>
+      
+      <guid>https://peter-wildberger.herokuapp.com/projects/contributions/spell-checker/</guid>
+      <description>Updated codemirror-spell-checker with new build process and multiple language support.
+ Update build process using webpack Ignores numbers If you have .aff and .dic files you can host them and load them for multilanguage functionality.  </description>
+    </item>
+    
+    <item>
+      <title>Simplemde Markdown Editor Extended</title>
+      <link>https://peter-wildberger.herokuapp.com/projects/contributions/simplemde-markdown-editor/</link>
+      <pubDate>Tue, 07 Jan 2020 17:08:21 +0000</pubDate>
+      
+      <guid>https://peter-wildberger.herokuapp.com/projects/contributions/simplemde-markdown-editor/</guid>
+      <description>Updated simplemde with new build process and dependency update for better spellchecking.
+ Update build process using webpack Update Spellchecking facilities  </description>
+    </item>
+    
+  </channel>
+</rss>
