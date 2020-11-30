@@ -1,6 +1,6 @@
 title = "Peter Wildberger"
 baseURL = "https://peter-wildberger.herokuapp.com/"
-theme = ["hugo-resume"]
+theme = ["resume"]
 languageCode = "en-us"
 PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
