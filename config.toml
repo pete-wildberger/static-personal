@@ -1,5 +1,5 @@
 title = "Peter Wildberger"
-baseURL = "https://pete-wildberger.net/"
+baseURL = "https://peter-wildberger.herokuapp.com/"
 theme = ["hugo-resume"]
 languageCode = "en-us"
 PygmentsCodeFences = true
