@@ -1,13 +1,13 @@
 [
-    {
-        "school":"Prime Digital Academy",
-        "degree":"Full Stack Software Engineering Certificate",
-        "range":"2017"
-    },
-    {
-        "school":"University or Minnesota",
-        "degree":"Bachelor of Arts",
-        "major":"Latin, Greek",
-        "range":"2007 - 2011"
-    }
+  {
+    "school": "Prime Digital Academy",
+    "degree": "Full Stack Software Engineering Certificate",
+    "range": "2017"
+  },
+  {
+    "school": "University of Minnesota",
+    "degree": "Bachelor of Arts",
+    "major": "Latin, Greek",
+    "range": "2007 - 2011"
+  }
 ]
